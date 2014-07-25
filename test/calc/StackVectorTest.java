@@ -6,7 +6,7 @@
  * Realiza las pruebas unitarias de 4 distintos métodos
  */
 
-package calc;
+//package calc;
 
 import org.junit.After;
 import org.junit.AfterClass;

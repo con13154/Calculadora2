@@ -5,7 +5,7 @@
  *Calc.java
  * 
  */
-package calc;
+//package calc;
 
 
 import java.io.BufferedReader;

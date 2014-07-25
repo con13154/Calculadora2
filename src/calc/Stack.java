@@ -5,7 +5,7 @@
  * Stack.java
  * 
  */
-package calc;
+//package calc;
 
 public interface Stack<E> 
 {
